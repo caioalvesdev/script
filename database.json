@@ -1,326 +1,372 @@
 [
     {
-        "name": "Cards AntecipaçãO",
+        "name": "Cards Antecipação",
         "category": "Antecipação",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/antecipação/cards_Antecipação.pptx",
-        "thumbnail": ""
+        "size": "656.02 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/antecipação/cards_Antecipação.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
-        "name": "One Pages AntecipaçãO",
+        "name": "One Pages Antecipação",
         "category": "Antecipação",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/antecipação/One_Pages_Antecipação.pdf",
-        "thumbnail": ""
+        "size": "49.29 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/antecipação/One_Pages_Antecipação.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
-        "name": "Roteiro AntecipaçãO",
+        "name": "Roteiro Antecipação",
         "category": "Antecipação",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/antecipação/Roteiro_Antecipação.docx",
-        "thumbnail": ""
+        "size": "24.68 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/antecipação/Roteiro_Antecipação.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
-        "name": "Template Redes Sociais AntecipaçãO",
+        "name": "Template Redes Sociais Antecipação",
         "category": "Antecipação",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/antecipação/Template_Redes-sociais_Antecipação.pptx",
-        "thumbnail": ""
+        "size": "572.09 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/antecipação/Template Redes-sociais_Antecipação.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
         "name": "Cards Bin Smart",
         "category": "Bin smart",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-smart/cards_Bin_Smart.pptx",
-        "thumbnail": ""
+        "size": "784.9 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-smart/cards_Bin Smart.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
         "name": "One Pages Bin Smart",
         "category": "Bin smart",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-smart/One_Pages_Bin_Smart.pdf",
-        "thumbnail": ""
+        "size": "43.43 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-smart/One_Pages_Bin Smart.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
         "name": "Roteiro Pages Bin Smart",
         "category": "Bin smart",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-smart/Roteiro_Pages_Bin_Smart.docx.docx",
-        "thumbnail": ""
+        "size": "24.9 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-smart/Roteiro_Pages_Bin Smart.docx.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
         "name": "Templates Redes Sociais Smart",
         "category": "Bin smart",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Templates",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-smart/templates-redes-sociais_Smart.pptx",
-        "thumbnail": ""
+        "size": "563.05 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-smart/templates-redes-sociais_Smart.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/templates.png"
     },
     {
         "name": "Cards Bin Tap",
         "category": "Bin Tap",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-tap/cards_Bin_Tap.pptx",
-        "thumbnail": ""
+        "size": "448.98 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-tap/cards_Bin Tap.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
         "name": "One Pages Bin Tap",
         "category": "Bin Tap",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-tap/One_Pages_Bin_Tap.pdf",
-        "thumbnail": ""
+        "size": "5.52 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-tap/One_Pages_Bin Tap.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
         "name": "Roteiro Bin Tap",
         "category": "Bin Tap",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-tap/Roteiro_Bin_Tap.docx",
-        "thumbnail": ""
+        "size": "24.85 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-tap/Roteiro_Bin Tap.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
         "name": "Template Redes Sociais Bin Tap",
         "category": "Bin Tap",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/bin-tap/Template_Redes-sociais_Bin_Tap.pptx",
-        "thumbnail": ""
+        "size": "365.07 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/bin-tap/Template Redes-sociais_Bin Tap.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
         "name": "Cards Canais Digitais",
         "category": "Canais Digitais",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/canais-digitais/cards_Canais_Digitais.pptx",
-        "thumbnail": ""
+        "size": "317.92 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/canais-digitais/cards_Canais Digitais.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
         "name": "One Pages Canais Digitais",
         "category": "Canais Digitais",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/canais-digitais/One_Pages_Canais_Digitais.pdf",
-        "thumbnail": ""
+        "size": "87.82 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/canais-digitais/One_Pages_Canais Digitais.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
         "name": "Roteiro Canais Digitais",
         "category": "Canais Digitais",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/canais-digitais/Roteiro_canais_digitais.docx",
-        "thumbnail": ""
+        "size": "24.96 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/canais-digitais/Roteiro_canais digitais.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
         "name": "Template Redes Sociais Canais Digitais",
         "category": "Canais Digitais",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/canais-digitais/Template_Redes-sociais_canais_digitais.pptx",
-        "thumbnail": ""
+        "size": "296.19 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/canais-digitais/Template Redes-sociais_canais digitais.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
         "name": "Cartao Visita Bin Final Editavel",
         "category": "Cartão de Visitas",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cartao",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/cartão-de-visitas/Cartao-Visita_Bin-final_Editavel.pptx",
-        "thumbnail": ""
+        "size": "74.03 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/cartão-de-visitas/Cartao-Visita_Bin-final_Editavel.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cartao.png"
     },
     {
-        "name": "CartaoDeVisitaBin",
+        "name": "Cartaodevisitabin",
         "category": "Cartão de Visitas",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "CartaoDeVisitaBin",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/cartão-de-visitas/CartaoDeVisitaBin.pptx",
-        "thumbnail": ""
+        "size": "128.22 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/cartão-de-visitas/CartaoDeVisitaBin.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cartaodevisitabin.png"
     },
     {
         "name": "Cracha Bin Final",
         "category": "Crachá",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cracha",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/crachá/Cracha_Bin-final.pdf",
-        "thumbnail": ""
+        "size": "374.89 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/crachá/Cracha_Bin-final.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cracha.png"
     },
     {
-        "name": "CrediáRio E Pagamento Parcial  Card",
+        "name": "Crediário E Pagamento Parcial  Card",
         "category": "Crediário e Pagamento Parcial",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "CrediáRio",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/crediário-e-pagamento-parcial/Crediário_e_Pagamento_Parcial-_Card.pptx",
-        "thumbnail": ""
+        "size": "417.31 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/crediário-e-pagamento-parcial/Crediário e Pagamento Parcial- Card.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/crediário.png"
     },
     {
-        "name": "CrediáRio E Pagamento Parcial",
+        "name": "Crediário E Pagamento Parcial",
         "category": "Crediário e Pagamento Parcial",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "CrediáRio",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/crediário-e-pagamento-parcial/Crediário_e_Pagamento_Parcial.pdf",
-        "thumbnail": ""
+        "size": "15.48 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/crediário-e-pagamento-parcial/Crediário e Pagamento Parcial.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/crediário.png"
     },
     {
-        "name": "Roteiro CrediáRio E Pagamento Parcial",
+        "name": "Roteiro Crediário E Pagamento Parcial",
         "category": "Crediário e Pagamento Parcial",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/crediário-e-pagamento-parcial/Roteiro_Crediário_e_Pagamento_Parcial.docx",
-        "thumbnail": ""
+        "size": "25.44 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/crediário-e-pagamento-parcial/Roteiro_Crediário e Pagamento Parcial.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
-        "name": "Template Redes Sociais CrediáRio E Pagamento Parcial",
+        "name": "Template Redes Sociais Crediário E Pagamento Parcial",
         "category": "Crediário e Pagamento Parcial",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/crediário-e-pagamento-parcial/Template_Redes-sociais_Crediário_e_Pagamento_Parcial.pptx.pptx",
-        "thumbnail": ""
+        "size": "278.8 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/crediário-e-pagamento-parcial/Template Redes-sociais_Crediário e Pagamento Parcial.pptx.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
         "name": "Guia De Treinamento Ariba 2024v3",
         "category": "Guia Ariba",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Guia",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/guia-ariba/Guia_de_treinamento_Ariba_2024v3.pdf",
-        "thumbnail": ""
+        "size": "21.02 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/guia-ariba/Guia de treinamento Ariba 2024v3.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/guia.png"
     },
     {
-        "name": "Cards SoluçõEs Digitais",
+        "name": "Guia Bin De Comercialização Final",
+        "category": "Guias de comercialização",
+        "type": "pdf",
+        "date": "2024-06-12",
+        "model": "Guia",
+        "size": "92.01 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/guias-de-comercialização/Guia BIN DE COMERCIALIZAÇÃO Final.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/guia.png"
+    },
+    {
+        "name": "Cards Soluções Digitais",
         "category": "Soluções digitais",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-digitais/cards_Soluções_Digitais.pptx",
-        "thumbnail": ""
+        "size": "726.13 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-digitais/cards_Soluções_Digitais.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
-        "name": "One Pages SoluçõEs Digitais",
+        "name": "One Pages Soluções Digitais",
         "category": "Soluções digitais",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-digitais/One_Pages_Soluções_Digitais.pdf",
-        "thumbnail": ""
+        "size": "44.71 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-digitais/One_Pages_Soluções_Digitais.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
-        "name": "Roteiro SoluçõEs Digitais",
+        "name": "Roteiro Soluções Digitais",
         "category": "Soluções digitais",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-digitais/Roteiro_Soluções_Digitais.docx",
-        "thumbnail": ""
+        "size": "24.93 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-digitais/Roteiro_Soluções_Digitais.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
-        "name": "Template Redes Sociais SoluçõEs Digitais",
+        "name": "Template Redes Sociais Soluções Digitais",
         "category": "Soluções digitais",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-digitais/Template_Redes-sociais_Soluções_Digitais.pptx",
-        "thumbnail": ""
+        "size": "645.68 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-digitais/Template Redes-sociais_Soluções_Digitais.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
-        "name": "Cards SoluçõEs Fisicas",
+        "name": "Cards Soluções Fisicas",
         "category": "Soluções Fisícas",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-fisícas/cards_Soluções_fisicas.pptx",
-        "thumbnail": ""
+        "size": "429.12 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-fisícas/cards_Soluções_fisicas.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
-        "name": "One Pages SoluçõEs Fisicas",
+        "name": "One Pages Soluções Fisicas",
         "category": "Soluções Fisícas",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-fisícas/One_Pages_Soluções_Fisicas.pdf",
-        "thumbnail": ""
+        "size": "53.91 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-fisícas/One_Pages_Soluções_Fisicas.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
-        "name": "Roteiro SoluçõEs Fisicas",
+        "name": "Roteiro Soluções Fisicas",
         "category": "Soluções Fisícas",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-fisícas/Roteiro_Soluções_Fisicas.docx",
-        "thumbnail": ""
+        "size": "25.27 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-fisícas/Roteiro_Soluções_Fisicas.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
-        "name": "Template Redes Sociais SoluçõEs Fisicas",
+        "name": "Template Redes Sociais Soluções Fisicas",
         "category": "Soluções Fisícas",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/soluções-fisícas/Template_Redes-sociais_Soluções_Fisicas.pptx",
-        "thumbnail": ""
+        "size": "328.76 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/soluções-fisícas/Template Redes-sociais_Soluções_Fisicas.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     },
     {
         "name": "Cards Whatsapp Pay",
         "category": "Whatsapp Pay",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Cards",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/whatsapp-pay/cards_Whatsapp_Pay.pptx",
-        "thumbnail": ""
+        "size": "1.07 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/whatsapp-pay/cards_Whatsapp Pay.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/cards.png"
     },
     {
         "name": "One Pages Whatsapp Pay",
         "category": "Whatsapp Pay",
         "type": "pdf",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "One",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/whatsapp-pay/One_Pages_Whatsapp_pay.pdf",
-        "thumbnail": ""
+        "size": "36.09 MB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/whatsapp-pay/One_Pages_Whatsapp_pay.pdf",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/one.png"
     },
     {
         "name": "Roteiro Whatsapp Pay",
         "category": "Whatsapp Pay",
         "type": "docx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Roteiro",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/whatsapp-pay/Roteiro_Whatsapp_Pay.docx.docx",
-        "thumbnail": ""
+        "size": "24.83 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/whatsapp-pay/Roteiro_Whatsapp_Pay.docx.docx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/roteiro.png"
     },
     {
         "name": "Template Redes Sociais Whatsapp Paypptx",
         "category": "Whatsapp Pay",
         "type": "pptx",
-        "date": "06/04/2024",
+        "date": "2024-06-04",
         "model": "Template",
-        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/Maio/whatsapp-pay/Template_Redes-sociais_whatsapp_Paypptx.pptx",
-        "thumbnail": ""
+        "size": "907.38 KB",
+        "download": "/content/dam/firstdata/bin/pt_br/assets/franqueados/downloads/whatsapp-pay/Template Redes-sociais_whatsapp Paypptx.pptx",
+        "thumbnail": "/content/dam/firstdata/bin/pt_br/assets/franqueados/thumbs/template.png"
     }
 ]
